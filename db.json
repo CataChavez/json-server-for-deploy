@@ -1,46 +1,78 @@
 {
+  "users": [
+    {
+      "email": "contacto@manolospizza.com",
+      "password": "$2a$10$eYN.DWgSYukfQftyvuBCzut691/OWvcgh7QnaNuXCM9x9D.NNcwzK",
+      "id": 1,
+      "storeId": 1
+    },
+    {
+      "email": "contacto@bordadosrosita.com",
+      "password": "$2a$10$FaaB/hCojQDqaF6UWAR8OO.Jct/W/DklFimjHCVW1OTq.gfeE2vxm",
+      "id": 2,
+      "storeId": 2
+    },
+    {
+      "email": "contacto@vforvegan.com",
+      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
+      "id": 3,
+      "storeId": 4
+    },
+    {
+      "email": "contacto@huertilizate.com",
+      "password": "$2a$10$QNXpOayUgfXkgRy65qhRz.UGkhOM.OS4HpmeWFYGIR0TdXFa9PMpO",
+      "id": 4,
+      "storeId": 3
+    },
+    {
+      "email": "contacto@cactus.com",
+      "password": "$2a$10$kVS7H0l83f12Wvu7r0XwdehRQhYx4U20pWivClyVt4tf/2u05vc02",
+      "id": 5,
+      "storeId": 5
+    },
+    {
+      "email": "contacto@taller.com",
+      "password": "$2a$10$LxoaELCo38rnmKeXoKJk4utUphI3utVZzMTDPadOOExWhH9IqsMtO",
+      "id": 6,
+      "storeId": 6
+    }
+  ],
   "store": [
     {
       "id": 1,
       "store_name": "Manolo's Pizza",
       "email": "contacto@manolospizza.com",
-      "store_img": "https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg",
-      "password": "1234"
+      "store_img": "https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg"
     },
     {
       "id": 2,
       "store_name": "Bordados Rosita",
       "email": "contacto@bordadosrosita.com",
-      "store_img": "https://manosmaravillosas.com/wp-content/uploads/2019/09/IMG_20191020_103747-01-01-scaled.jpeg",
-      "password": "1234"
+      "store_img": "https://manosmaravillosas.com/wp-content/uploads/2019/09/IMG_20191020_103747-01-01-scaled.jpeg"
     },
     {
       "id": 3,
       "store_name": "Huertilizate",
-      "email": "contacto@hurtilizate.com",
-      "store_img": "",
-      "password": "1234"
+      "email": "contacto@huertilizate.com",
+      "store_img": ""
     },
     {
       "id": 4,
       "store_name": "V for Vegan",
       "email": "contacto@vforvegan.com",
-      "store_img": "https://cronicaglobal.elespanol.com/uploads/s1/62/07/74/1/nrd-d6tu-l3chle-unsplash-copia_11_1000x528.jpeg",
-      "password": "1234"
+      "store_img": "https://cronicaglobal.elespanol.com/uploads/s1/62/07/74/1/nrd-d6tu-l3chle-unsplash-copia_11_1000x528.jpeg"
     },
     {
       "id": 5,
       "store_name": "Tienda de Cactus",
       "email": "contacto@cactus.com",
-      "store_img": "https://previews.123rf.com/images/settapongd/settapongd1802/settapongd180200018/95724729-cactus-y-macetas-suculentas-en-la-tienda-de-plantas-hobby-de-plantas-de-decoraci%C3%B3n-para-el-estilo-de.jpg",
-      "password": "1234"
+      "store_img": "https://previews.123rf.com/images/settapongd/settapongd1802/settapongd180200018/95724729-cactus-y-macetas-suculentas-en-la-tienda-de-plantas-hobby-de-plantas-de-decoraci%C3%B3n-para-el-estilo-de.jpg"
     },
     {
       "id": 6,
       "store_name": "Taller de Carpinteria Manuel",
       "email": "contacto@taller.com",
-      "store_img": "https://cdnx.jumpseller.com/manos-de-pucon/image/16022151/resize/640/640?1622066071",
-      "password": "1234"
+      "store_img": "https://cdnx.jumpseller.com/manos-de-pucon/image/16022151/resize/640/640?1622066071"
     }
   ],
   "products": [
@@ -196,6 +228,33 @@
       "stock": "",
       "product_img": "https://gastronomiaycia.republica.com/wp-content/uploads/2018/01/inclusion_alimentos_veganos_1.jpg",
       "storeId": 4
+    },
+    {
+      "product_name": "prueba",
+      "descripction": "prueba",
+      "price": "15000",
+      "stock": "A pedido",
+      "product_img": "",
+      "storeId": "2",
+      "id": 18
+    },
+    {
+      "product_name": "prueba",
+      "descripction": "prueba",
+      "price": "15000",
+      "stock": "A pedido",
+      "product_img": "",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "product_name": "prueba",
+      "descripction": "prueba",
+      "price": "15000",
+      "stock": "A pedido",
+      "product_img": "",
+      "userId": 1,
+      "id": 20
     }
   ]
 }
