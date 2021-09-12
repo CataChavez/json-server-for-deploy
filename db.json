@@ -79,7 +79,7 @@
     {
       "id": 1,
       "product_name": "Pizza 4 Estaciones",
-      "descripction": "Pizza  tamaño extra grande, tiene aceitunas, pepperoni, champignones, jamón y extra queso",
+      "description": "Pizza  tamaño extra grande, tiene aceitunas, pepperoni, champignones, jamón y extra queso",
       "price": "15000",
       "stock": "A pedido",
       "product_img": "https://winnys.cl/wp-content/uploads/2020/07/4ESTACIONES-min.png",
@@ -88,7 +88,7 @@
     {
       "id": 2,
       "product_name": "Pizza Pepperoni",
-      "descripction": "Pizza familiar de pepperoni con extra queso",
+      "description": "Pizza familiar de pepperoni con extra queso",
       "price": "12000",
       "stock": "A pedido",
       "product_img": "https://www.saborusa.com/wp-content/uploads/2019/10/Celebremos-con-una-deliciosa-y-tradicional-pizza-de-pepperoni-Foto-destacada.png",
@@ -97,7 +97,7 @@
     {
       "id": 3,
       "product_name": "Pizza Española",
-      "descripction": "Pizza familiar, tiene chorizo, jamón, tomate, pimentón y aceitunas",
+      "description": "Pizza familiar, tiene chorizo, jamón, tomate, pimentón y aceitunas",
       "price": "12000",
       "stock": "A pedido",
       "product_img": "https://www.pedidosya.cl/blog/wp-content/uploads/sites/2/2018/05/pizza-espanola.jpg",
@@ -106,7 +106,7 @@
     {
       "id": 4,
       "product_name": "Pizza Napolitana",
-      "descripction": "Pizza Napolitana, queso fresco, aceitunas y orégano",
+      "description": "Pizza Napolitana, queso fresco, aceitunas y orégano",
       "price": "12000",
       "stock": "A pedido",
       "product_img": "https://www.pedidosya.cl/blog/wp-content/uploads/sites/2/2018/05/pizza-napolitana.jpg",
@@ -115,7 +115,7 @@
     {
       "id": 5,
       "product_name": "Pizza Todas las Carnes",
-      "descripction": "Pizza familiar, carne, chorizo, pepperoni, tocino",
+      "description": "Pizza familiar, carne, chorizo, pepperoni, tocino",
       "price": "12500",
       "stock": "A pedido",
       "product_img": "https://www.pedidosya.cl/blog/wp-content/uploads/sites/2/2018/05/pizza-todas-las-carnes.png",
@@ -124,7 +124,7 @@
     {
       "id": 6,
       "product_name": "Pizza Vegetariana",
-      "descripction": "Pizza familiar, con tomate, aceitunas, champignones, pimentón, choclo",
+      "description": "Pizza familiar, con tomate, aceitunas, champignones, pimentón, choclo",
       "price": "12000",
       "stock": "A pedido",
       "product_img": "https://www.pedidosya.cl/blog/wp-content/uploads/sites/2/2018/05/pizza-vegetariana.jpg",
@@ -133,7 +133,7 @@
     {
       "id": 7,
       "product_name": "Bordado con relieve con realce",
-      "descripction": "Bordado con diseño a pedido con maquina",
+      "description": "Bordado con diseño a pedido con maquina",
       "price": "Según medida",
       "stock": "A pedido",
       "product_img": "https://www.macoinsl.com/wp-content/uploads/2017/08/relieve-600x292.jpg",
@@ -142,7 +142,7 @@
     {
       "id": 8,
       "product_name": "Bordado a mano",
-      "descripction": "Opciones con hilo blanco, hilos de oro y plata, bordado plano o cordoncillo",
+      "description": "Opciones con hilo blanco, hilos de oro y plata, bordado plano o cordoncillo",
       "price": "Según medida",
       "stock": "A pedido",
       "product_img": "https://www.macoinsl.com/wp-content/uploads/2017/08/perlas-600x450.jpg",
@@ -151,7 +151,7 @@
     {
       "id": 9,
       "product_name": "Bordado con maquinas de bordar",
-      "descripction": "Según diseño y menor tiempo de ejecución.",
+      "description": "Según diseño y menor tiempo de ejecución.",
       "price": "Según medida",
       "stock": "A pedido",
       "product_img": "https://www.macoinsl.com/wp-content/uploads/2017/08/maquina-600x450.jpg",
@@ -160,7 +160,7 @@
     {
       "id": 10,
       "product_name": "Cactus-Variedades",
-      "descripction": "Variedad de cactus y suculentas, pregunta por el tuyo",
+      "description": "Variedad de cactus y suculentas, pregunta por el tuyo",
       "price": "1000 a 10000",
       "stock": "A pedido",
       "product_img": "https://previews.123rf.com/images/settapongd/settapongd1802/settapongd180200030/95966833-cactus-y-macetas-suculentas-en-la-tienda-de-plantas-hobby-de-plantas-de-decoraci%C3%B3n-para-el-estilo-de.jpg",
@@ -169,7 +169,7 @@
     {
       "id": 11,
       "product_name": "Set 5 Pocillos",
-      "descripction": "Set 5 Pocillos Redondos, distintas circunferencias",
+      "description": "Set 5 Pocillos Redondos, distintas circunferencias",
       "price": 14990,
       "stock": 6,
       "product_img": "https://images.jumpseller.com/store/manos-de-pucon/9550850/set-5-pocillos.-madera-2jpg.jpg?1622066071",
@@ -178,7 +178,7 @@
     {
       "id": 12,
       "product_name": "Fuente de Aperitivos",
-      "descripction": "Fuente de madera nativa (rauli), tiene forma irregular, esta cuenta con 5 divisiones y un set de pinchos (10 u), ideal para montar aperitivos.",
+      "description": "Fuente de madera nativa (rauli), tiene forma irregular, esta cuenta con 5 divisiones y un set de pinchos (10 u), ideal para montar aperitivos.",
       "price": 32590,
       "stock": 3,
       "product_img": "https://cdnx.jumpseller.com/manos-de-pucon/image/15944149/resize/640/640?1618932748",
@@ -187,7 +187,7 @@
     {
       "id": 13,
       "product_name": "Fuente ovalada",
-      "descripction": "Fuente de madera con diseño ovalado, incluye cucharon y tenedor",
+      "description": "Fuente de madera con diseño ovalado, incluye cucharon y tenedor",
       "price": 14390,
       "stock": 3,
       "product_img": "https://cdnx.jumpseller.com/manos-de-pucon/image/16041870/resize/640/640?1629134092",
@@ -196,7 +196,7 @@
     {
       "id": 14,
       "product_name": "Mini huerto",
-      "descripction": "1 maceta de madera, sustrato mexcla lista, 2 variedades de almacigos y 1 paquete de mulch",
+      "description": "1 maceta de madera, sustrato mexcla lista, 2 variedades de almacigos y 1 paquete de mulch",
       "price": 23200,
       "stock": 10,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_904624-MLC45497563890_042021-O.webp",
@@ -205,7 +205,7 @@
     {
       "id": 15,
       "product_name": "Huerto Vertical",
-      "descripction": "Hecho a base de pallet, incluye pernos para su instalación, 5 cajones: 1 grande, 2 medianosy 2 chicos",
+      "description": "Hecho a base de pallet, incluye pernos para su instalación, 5 cajones: 1 grande, 2 medianosy 2 chicos",
       "price": 31990,
       "stock": 5,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_630786-MLC44178182618_112020-O.webp",
@@ -214,7 +214,7 @@
     {
       "id": 16,
       "product_name": "Cajon de Cultivo",
-      "descripction": "Cajón de cultivo 90x45x45 de madera, capacidad 70 litros",
+      "description": "Cajón de cultivo 90x45x45 de madera, capacidad 70 litros",
       "price": 52890,
       "stock": 5,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_889208-MLC42658449409_072020-O.webp",
@@ -223,7 +223,7 @@
     {
       "id": 17,
       "product_name": "Productos veganos",
-      "descripction": "Contamos con variedad de productos veganos importados",
+      "description": "Contamos con variedad de productos veganos importados",
       "price": "Según tipo",
       "stock": "",
       "product_img": "https://gastronomiaycia.republica.com/wp-content/uploads/2018/01/inclusion_alimentos_veganos_1.jpg",
@@ -231,7 +231,7 @@
     },
     {
       "product_name": "prueba",
-      "descripction": "prueba",
+      "description": "prueba",
       "price": "15000",
       "stock": "A pedido",
       "product_img": "",
@@ -240,7 +240,7 @@
     },
     {
       "product_name": "prueba",
-      "descripction": "prueba",
+      "description": "prueba",
       "price": "15000",
       "stock": "A pedido",
       "product_img": "",
@@ -249,7 +249,7 @@
     },
     {
       "product_name": "prueba",
-      "descripction": "prueba",
+      "description": "prueba",
       "price": "15000",
       "stock": "A pedido",
       "product_img": "",
