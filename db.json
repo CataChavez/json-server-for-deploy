@@ -13,16 +13,16 @@
       "storeId": 2
     },
     {
-      "email": "contacto@vforvegan.com",
-      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
-      "id": 3,
-      "storeId": 4
-    },
-    {
       "email": "contacto@huertilizate.com",
       "password": "$2a$10$QNXpOayUgfXkgRy65qhRz.UGkhOM.OS4HpmeWFYGIR0TdXFa9PMpO",
-      "id": 4,
+      "id": 3,
       "storeId": 3
+    },
+    {
+      "email": "contacto@vforvegan.com",
+      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
+      "id": 4,
+      "storeId": 4
     },
     {
       "email": "contacto@cactus.com",
