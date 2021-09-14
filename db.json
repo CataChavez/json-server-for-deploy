@@ -12,21 +12,21 @@
       "id": 2,
       "storeId": 2
     },
-    {
-      "email": "contacto@huertilizate.com",
-      "password": "$2a$10$QNXpOayUgfXkgRy65qhRz.UGkhOM.OS4HpmeWFYGIR0TdXFa9PMpO",
+     {
+      "email": "contacto@vforvegan.com",
+      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
       "id": 3,
       "storeId": 3
     },
     {
-      "email": "contacto@vforvegan.com",
-      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
+      "email": "contacto@cactus.com",
+      "password": "$2a$10$kVS7H0l83f12Wvu7r0XwdehRQhYx4U20pWivClyVt4tf/2u05vc02",
       "id": 4,
       "storeId": 4
     },
     {
-      "email": "contacto@cactus.com",
-      "password": "$2a$10$kVS7H0l83f12Wvu7r0XwdehRQhYx4U20pWivClyVt4tf/2u05vc02",
+      "email": "contacto@huertilizate.com",
+      "password": "$2a$10$QNXpOayUgfXkgRy65qhRz.UGkhOM.OS4HpmeWFYGIR0TdXFa9PMpO",
       "id": 5,
       "storeId": 5
     },
@@ -52,21 +52,21 @@
     },
     {
       "id": 3,
-      "store_name": "Huertilizate",
-      "email": "contacto@huertilizate.com",
-      "store_img": "https://catachavez.github.io/assets/img/huertilizate.png"
-    },
-    {
-      "id": 4,
       "store_name": "V for Vegan",
       "email": "contacto@vforvegan.com",
       "store_img": "https://cronicaglobal.elespanol.com/uploads/s1/62/07/74/1/nrd-d6tu-l3chle-unsplash-copia_11_1000x528.jpeg"
     },
     {
-      "id": 5,
+      "id": 4,
       "store_name": "Tienda de Cactus",
       "email": "contacto@cactus.com",
       "store_img": "https://previews.123rf.com/images/settapongd/settapongd1802/settapongd180200018/95724729-cactus-y-macetas-suculentas-en-la-tienda-de-plantas-hobby-de-plantas-de-decoraci%C3%B3n-para-el-estilo-de.jpg"
+    },
+    {
+      "id": 5,
+      "store_name": "Huertilizate",
+      "email": "contacto@huertilizate.com",
+      "store_img": "https://catachavez.github.io/assets/img/huertilizate.png"
     },
     {
       "id": 6,
@@ -164,7 +164,7 @@
       "price": "1000 a 10000",
       "stock": "A pedido",
       "product_img": "https://previews.123rf.com/images/settapongd/settapongd1802/settapongd180200030/95966833-cactus-y-macetas-suculentas-en-la-tienda-de-plantas-hobby-de-plantas-de-decoraci%C3%B3n-para-el-estilo-de.jpg",
-      "storeId": 5
+      "storeId": 4
     },
     {
       "id": 11,
@@ -200,7 +200,7 @@
       "price": 23200,
       "stock": 10,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_904624-MLC45497563890_042021-O.webp",
-      "storeId": 3
+      "storeId": 5
     },
     {
       "id": 15,
@@ -209,7 +209,7 @@
       "price": 31990,
       "stock": 5,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_630786-MLC44178182618_112020-O.webp",
-      "storeId": 3
+      "storeId": 5
     },
     {
       "id": 16,
@@ -218,7 +218,7 @@
       "price": 52890,
       "stock": 5,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_889208-MLC42658449409_072020-O.webp",
-      "storeId": 3
+      "storeId": 5
     },
     {
       "id": 17,
@@ -227,7 +227,7 @@
       "price": "Según tipo",
       "stock": "",
       "product_img": "https://gastronomiaycia.republica.com/wp-content/uploads/2018/01/inclusion_alimentos_veganos_1.jpg",
-      "storeId": 4
+      "storeId": 3
     },
     {
       "product_name": "prueba",
