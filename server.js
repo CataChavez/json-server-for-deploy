@@ -12,10 +12,9 @@ server.db = router.db
 
 const rules = auth.rewriter({
     // Permission rules
-    users: 640,
+    users: 660,
     products: 664,
     store: 664
-
 })
 
 server.use(rules)
