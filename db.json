@@ -12,7 +12,7 @@
       "id": 2,
       "storeId": 2
     },
-     {
+    {
       "email": "contacto@vforvegan.com",
       "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
       "id": 3,
@@ -230,31 +230,89 @@
       "storeId": 3
     },
     {
-      "product_name": "prueba",
-      "description": "prueba",
-      "price": "15000",
-      "stock": "A pedido",
-      "product_img": "",
-      "storeId": "2",
-      "id": 18
+      "product_name": "Set Platos de madera con Pocillos",
+      "description": "Platos de madera de 32x22cm y pocillos 10cm",
+      "price": "20000",
+      "stock": "2",
+      "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
+      "storeId": 6,
+      "id": 21
     },
     {
-      "product_name": "prueba",
-      "description": "prueba",
-      "price": "15000",
-      "stock": "A pedido",
-      "product_img": "",
-      "userId": 1,
-      "id": 19
+      "product_name": {
+        "product_name": "prueba desde app",
+        "description": "creando",
+        "price": "8000",
+        "stock": "a pedido",
+        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
+      },
+      "id": 22
     },
     {
-      "product_name": "prueba",
-      "description": "prueba",
-      "price": "15000",
-      "stock": "A pedido",
-      "product_img": "",
-      "userId": 1,
-      "id": 20
+      "product_name": {
+        "product_name": "prueba desde app2",
+        "description": "creando",
+        "price": "8000",
+        "stock": "a pedido",
+        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
+      },
+      "id": 23
+    },
+    {
+      "product_name": {
+        "product_name": "prueba desde app2",
+        "description": "creando",
+        "price": "8000",
+        "stock": "a pedido",
+        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
+      },
+      "id": 24
+    },
+    {
+      "product_name": {
+        "product_name": "prueba desde app",
+        "description": "prueba",
+        "price": "8000",
+        "stock": "a pedido",
+        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
+      },
+      "id": 25
+    },
+    {
+      "product_name": {
+        "product_name": "prueba desde app",
+        "description": "prueba con el storeId",
+        "price": "8000",
+        "stock": "a pedido",
+        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
+      },
+      "id": 26
+    },
+    {
+      "product_name": {
+        "product_name": "prueba desde app",
+        "description": "prueba otra el sotreid",
+        "price": "2000",
+        "stock": "1",
+        "product_img": ""
+      },
+      "id": 27
+    },
+    {
+      "product_name": "ultima prueba",
+      "description": "ddd",
+      "price": "8000",
+      "stock": "a pedido",
+      "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
+      "id": 30
+    },
+    {
+      "product_name": "ultima prueba",
+      "description": "ddd",
+      "price": "8000",
+      "stock": "a pedido",
+      "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
+      "id": 31
     }
   ]
 }
