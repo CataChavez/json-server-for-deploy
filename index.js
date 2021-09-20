@@ -26,4 +26,6 @@ server.use(auth)
 server.use(router)
 
 //Servidor
-server.listen(port, () => console.log(`API REST ON PORT ${port}`));
+server.listen(port, () => {
+    console.log(`API REST ON PORT ${port}`)
+});
