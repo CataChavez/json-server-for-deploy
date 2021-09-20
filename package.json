@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": "12.19.0",
+    "npm": "7.5.2"
+  },
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
