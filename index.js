@@ -10,9 +10,9 @@ server.use(middlewares)
 
 /* server.get('/', function(req, res){
     res.redirect('/db');
- });
+ });*/
 
-server.db = router.db */
+server.db = router.db
 
 //const rules = auth.rewriter({
     // Permission rules
