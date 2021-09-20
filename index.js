@@ -8,6 +8,10 @@ const port = process.env.PORT || 4000;
 
 server.use(middlewares)
 
+server.get('/', function(req, res){
+    res.redirect('/db');
+ });
+
 server.db = router.db
 
 const rules = auth.rewriter({
