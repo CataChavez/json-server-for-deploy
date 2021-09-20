@@ -1,5 +1,5 @@
 const jsonServer = require('json-server');
-const auth = require('json-server-auth')
+//const auth = require('json-server-auth')
 
 const server = jsonServer.create();
 const router = jsonServer.router('db.json')
@@ -8,21 +8,21 @@ const port = process.env.PORT || 4000;
 
 server.use(middlewares)
 
-server.get('/', function(req, res){
+/* server.get('/', function(req, res){
     res.redirect('/db');
  });
 
-server.db = router.db
+server.db = router.db */
 
-const rules = auth.rewriter({
+//const rules = auth.rewriter({
     // Permission rules
-    users: 660,     
+    //users: 660,     
     /*products: 664,
     store: 664*/
-})
+//})
 
-server.use(rules)
-server.use(auth)
+//server.use(rules)
+//server.use(auth)
 server.use(router)
 
 //Servidor
