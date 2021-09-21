@@ -4,7 +4,7 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
