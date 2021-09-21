@@ -8,17 +8,13 @@ const port = process.env.PORT || 4000;
 
 server.use(middlewares)
 
-/* server.get('/', function(req, res){
-    res.redirect('/db');
- });*/
-
 server.db = router.db
 
 const rules = auth.rewriter({
     // Permission rules
-    users: 660,     
-    /*products: 664,
-    store: 664*/
+    users: 600,     
+    //products: 664,
+    //store: 664
 })
 
 server.use(rules)
